@@ -137,7 +137,7 @@ sequenceDiagram
 ### 🚀 **Phase 4: Live Operation**
 - **Customer Payment**: Real customers make payments through the integrated button
 - **Automatic Processing**: Zapier receives webhook, searches/creates Ghost members
-- **Member Management**: Existing members updated, new members created automatically
+- **Member Management**: New members created automatically
 - **Result**: Seamless automated membership management based on payments
 
 ## Key Benefits of Complete Integration
